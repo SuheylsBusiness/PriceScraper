@@ -1,0 +1,12 @@
+accept: */*
+accept-encoding: gzip, deflate, br
+accept-language: de-DE,de;q=0.9,en-US;q=0.8,en;q=0.7
+cookie: _dtl_ref1=; _dtl_ref2=; _dtl_ref3=; _dtl_uid=A59cr4ql*CU*oiY7; _ga=GA1.2.212837797.1672498397; _gid=GA1.2.464998599.1672498397; _dtl_analytics_filter=; _dtl_cookie_preferences={%22Essential%22:true%2C%22Analytics%22:true%2C%22Performance%22:true%2C%22Advertising%22:true}; __gads=ID=50e5dc994fd004d4:T=1672498478:S=ALNI_MYgGaOYRkBf-Dw6B0WSmrNcr0PdxQ; __gpi=UID=00000b9b1eb974b7:T=1672498478:RT=1672498478:S=ALNI_MbgvVZHlQxtMjqawqub0-Ura30VYg; _gali=device_search_input; _gat_europe_unique_urchin=1; _gat_UA-109367177-1=1; _dd_s=logs=1&id=896be65f-c5e7-48e2-b446-33ceda0831ac&created=1672570908431&expire=1672571821483
+referer: https://www.sellmymobile.com/
+sec-ch-ua: "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+sec-fetch-dest: empty
+sec-fetch-mode: cors
+sec-fetch-site: same-origin
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
